@@ -11,11 +11,13 @@ body, table, input {
 }
 
 #tetris	{
-	position: relative;
-	width: 300px;
-	height:	309px;
-	background:	#fff;
-	border:	#BE9E7C	1px	solid;
+	position: absolute;
+    	width: 300px;
+    	height: 309px;
+    	background: #fff;
+    	border: #BE9E7C 1px solid;
+    	top: 5%;
+    	left: 5%;
 }
 
 #tetris	.left {
